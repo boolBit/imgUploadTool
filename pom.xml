@@ -282,8 +282,8 @@
                             <icon>src/main/resources/icon/main.ico</icon>
                             <jre>
                                 <minVersion>1.8.0</minVersion>
-                                <jdkPreference>preferJre</jdkPreference>
-                                <!--<path>/home/hellokitty/.jenv/candidates/java/current-->
+                                <!--<jdkPreference>preferJre</jdkPreference>-->
+                                <!--<path>/home/hellokitty/.jenv/candidates/java/1.8.0_40/-->
                                 <!--</path>-->
                                 <!--<bundledJre64Bit>true</bundledJre64Bit>-->
                                 <!--<bundledJreAsFallback>true</bundledJreAsFallback>-->
